@@ -1,0 +1,25 @@
+{
+  "name": "com.baidu.addressables",
+  "version": "1.0.1",
+  "displayName": "Baidu Addressables",
+  "description": "Baidu Addressables",
+  "unity": "2021.3",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.scriptablebuildpipeline": "1.19.1",
+    "com.unity.modules.assetbundle": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.unitywebrequestassetbundle": "1.0.0",
+    "com.unity.test-framework": "1.1.33",
+    "com.baidu.commonsdk": "1.0.0"
+  },
+  "author": {
+    "name": "Baidu",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
